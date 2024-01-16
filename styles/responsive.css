@@ -1,0 +1,59 @@
+/* responsive part */
+
+@media screen and (max-width: 600px) {
+
+    .tit {
+        flex-direction: column;
+        margin: 0 auto;
+    }
+
+    .banner-part {
+        padding-top: 30px;
+        margin: 0 auto;
+        width: 80%;
+        height: 483px;
+        flex-shrink: 0;
+        margin: 0 auto;
+    }
+
+    .button {
+        flex-direction: column;
+    }
+
+    #h {
+        font-size: 22px;
+    }
+
+    /* end banner section */
+
+    /* our popular tour-section */
+    .popular-tour {
+        flex-direction: column;
+        padding-top: 30px;
+        width: 80%;
+        height: 483px;
+        margin: 0 auto;
+    }
+
+    .popular-content {
+        width: 100%;
+
+    }
+
+    .popular-img {
+        width: 100%;
+    }
+
+    /* End 0our popular tour-section */
+
+
+    
+/* Choose Your Destination-part */
+
+
+
+/* End Choose Your Destination-part */
+
+
+
+}
