@@ -44,7 +44,7 @@ div li a {
     padding-top: 106px;
     margin: 50px auto;
     border-radius: 16px;
-    background: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url('./Images/banner.png');
+    background: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url('../Images/banner.png');
     width: 1170px;
     height: 500px;
     background-repeat: no-repeat;
@@ -214,7 +214,7 @@ div li a {
     grid-column: 1/span 6;
     grid-row: 1/span 1;
     text-align: center;
-    background-image: url('./Images/Rectangle\ 5.png');
+    background-image: url('../Images/Rectangle\ 5.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 100% 100%;
@@ -226,7 +226,7 @@ div li a {
     grid-column: 7/span 6;
     grid-row: 1/span 1;
     text-align: center;
-    background-image: url('./Images/Rectangle\ 8.png');
+    background-image: url('../Images/Rectangle\ 8.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 150px;
@@ -236,7 +236,7 @@ div li a {
     grid-column: 1/span 4;
     grid-row: 2/span 1;
     text-align: center;
-    background-image: url('./Images/Rectangle\ 6.png');
+    background-image: url('../Images/Rectangle\ 6.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 150px;
@@ -246,7 +246,7 @@ div li a {
     grid-column: 5/span 5;
     grid-row: 2/span 1;
     text-align: center;
-    background-image: url('./Images/Rectangle\ 7.png');
+    background-image: url('../Images/Rectangle\ 7.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 150px;
@@ -257,7 +257,7 @@ div li a {
     grid-column: 10/span 3;
     grid-row: 2/span 1;
     text-align: center;
-    background-image: url('./Images/Rectangle\ 9.png');
+    background-image: url('../Images/Rectangle\ 9.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 150px;
@@ -268,7 +268,7 @@ div li a {
     grid-column: 1/span 5;
     grid-row: 3/span 1;
     text-align: center;
-    background-image: url('./Images/Rectangle\ 11.png');
+    background-image: url('../Images/Rectangle\ 11.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 150px;
@@ -279,7 +279,7 @@ div li a {
     grid-column: 6/span 7;
     grid-row: 3/span 1;
     text-align: center;
-    background-image: url('./Images/Rectangle\ 10.png');
+    background-image: url('../Images/Rectangle\ 10.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 150px;
