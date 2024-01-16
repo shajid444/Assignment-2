@@ -50,10 +50,42 @@
     
 /* Choose Your Destination-part */
 
+.Destination-img {
+
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+height: 176px;
+flex-shrink: 0;
+margin: 0 auto;
+
+}
+.Destination-content{
+    margin-top: 400px;
+}
+
 
 
 /* End Choose Your Destination-part */
 
+/* why choose us */
 
+.card-flex{
+ flex-direction: column;
+}
+
+.choose{
+    margin-top: 1700px;
+}
+
+.card{
+    margin: 0px auto;
+}
+
+#cd{
+    margin: 20px auto;
+}
+
+/*End why choose us */
 
 }
