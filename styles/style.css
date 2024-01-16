@@ -386,6 +386,7 @@ div li a {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    margin-top: 20px;
 
 }
 
@@ -403,6 +404,8 @@ div li a {
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    margin-top: 20px;
+
 }
 
 .line {
@@ -414,3 +417,50 @@ div li a {
     margin-bottom: 5px;
 
 }
+
+.news {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 50px auto;
+}
+
+.imm {
+    width: 60%;
+    /* width: 672px; */
+    height: 300px;
+    /* object-fit: cover; */
+}
+
+.conn {
+    width: 30%;
+    height: 350px;
+    padding: 30px;
+    text-align: left;
+    background: #FFF;
+    border-radius: 16px;
+    border: 1px solid #FF5400;
+}
+
+.layer {
+    width: 280px;
+    height: 100px;
+    transform: rotate(-19.628deg);
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: #FF5400;
+    text-align: center;
+    padding-top: 15px;
+    position: relative;
+    left: 385px;
+    bottom: 160px;
+}
+
+.l4 {
+    color: #FFF;
+    font-size: 21.138px;
+    font-weight: 800;
+    line-height: normal;
+}
+
+/* finish newsletter-section */

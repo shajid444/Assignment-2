@@ -47,45 +47,99 @@
     /* End 0our popular tour-section */
 
 
-    
-/* Choose Your Destination-part */
 
-.Destination-img {
+    /* Choose Your Destination-part */
 
-  display: flex;
-  flex-direction: column;
-  width: 80%;
-height: 176px;
-flex-shrink: 0;
-margin: 0 auto;
+    .Destination-img {
 
-}
-.Destination-content{
-    margin-top: 400px;
-}
+        display: flex;
+        flex-direction: column;
+        width: 80%;
+        height: 176px;
+        flex-shrink: 0;
+        margin: 0 auto;
+
+    }
+
+    .Destination-content {
+        margin-top: 400px;
+    }
 
 
 
-/* End Choose Your Destination-part */
+    /* End Choose Your Destination-part */
 
-/* why choose us */
+    /* why choose us */
 
-.card-flex{
- flex-direction: column;
-}
+    .card-flex {
+        flex-direction: column;
+    }
 
-.choose{
-    margin-top: 1700px;
-}
+    .choose {
+        margin-top: 1700px;
+    }
 
-.card{
-    margin: 0px auto;
-}
+    .card {
+        margin: 0px auto;
+    }
 
-#cd{
-    margin: 20px auto;
-}
+    #cd {
+        margin: 20px auto;
+    }
 
-/*End why choose us */
+    /*End why choose us */
+
+    /* newaletter-section */
+    .news {
+        flex-direction: column;
+        margin: 0px auto;
+        width: 500px;
+
+    }
+
+    .imm {
+        width: 100%;
+        height: 300px;
+        margin-right: 20px;
+        margin-right: 20px;
+        padding: 10px;
+        /* width: 335px;
+        height: 300px;
+        flex-shrink: 0; */
+
+    }
+
+    .imm img {
+        width: 100%;
+    }
+
+
+
+    .conn {
+
+        width: 80%;
+        margin-left: 20px;
+    }
+
+
+    .layer {
+        /* width: 280px;
+        height: 100px; */
+        transform: rotate(-19.628deg);
+        flex-shrink: 0;
+        border-radius: 16px;
+        background: #FF5400;
+        text-align: center;
+        /* padding-top: 15px; */
+        position: relative;
+        left: 300px;
+        bottom: 120px;
+        padding-bottom: 15px;
+
+        width: 200px;
+        height: 70px;
+    }
+
+    /* finish newsletter-section */
 
 }
