@@ -142,4 +142,21 @@
 
     /* finish newsletter-section */
 
+
+    /* footer section */
+
+    .footer {
+        width: 80%;
+        height: 309px;
+        margin: 0 auto;
+    }
+
+    .lfn {
+        width: 80%;
+        height: 1px;
+        background: rgba(19, 19, 24, 0.10);
+        /* padding-left: 200px; */
+        margin: 20px auto;
+    }
+
 }
