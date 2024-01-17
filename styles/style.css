@@ -1,3 +1,4 @@
+
 .title {
     color: #131318;
     font-family: Mulish;
@@ -464,6 +465,93 @@ div li a {
 }
 
 /* finish newsletter-section */
+
+/* own */
+
+.own {
+    margin: 50px 120px;
+    background: var(--white, #FFF);
+    border-radius: 34.583px;
+    box-shadow: 0px 2.463px 4.187px 0px rgba(0, 0, 0, 0.00), 0px 10.838px 8.67px 0px rgba(0, 0, 0, 0.01), 0px 26.602px 17.292px 0px rgba(0, 0, 0, 0.01), 0px 51.234px 33.893px 0px rgba(0, 0, 0, 0.01), 0px 86.212px 62.319px 0px rgba(0, 0, 0, 0.02), 0px 133.012px 106.41px 0px rgba(0, 0, 0, 0.02);
+}
+
+.ownh {
+    display: flex;
+
+}
+
+.own img {
+    width: 30px;
+    height: 30px;
+}
+
+.on2 {
+    padding: 20px;
+    padding-left: 20px;
+    width: 400px;
+    height: 400px;
+    border-radius: 34.583px;
+    background: var(--white, #FFF);
+    box-shadow: 0px 2.463px 4.187px 0px rgba(0, 0, 0, 0.00), 0px 10.838px 8.67px 0px rgba(0, 0, 0, 0.01), 0px 26.602px 17.292px 0px rgba(0, 0, 0, 0.01), 0px 51.234px 33.893px 0px rgba(0, 0, 0, 0.01), 0px 86.212px 62.319px 0px rgba(0, 0, 0, 0.02), 0px 133.012px 106.41px 0px rgba(0, 0, 0, 0.02);
+
+
+}
+
+.on2 img {
+    width: 400px;
+    height: 214.15px;
+    border-radius: 31.923px;
+    object-fit: cover;
+    background: lightgray 50% / cover no-repeat;
+
+}
+
+.wnn {
+    display: flex;
+}
+
+.on2-img {
+    padding-left: 40px;
+    display: flex;
+    gap: 20px;
+}
+
+.on2-img img,
+.ho7 img {
+
+    width: 18.622px;
+    height: 18.622px;
+    flex-shrink: 0;
+}
+
+.ho7 {
+    padding-left: 40px;
+    display: flex;
+    gap: 20px;
+}
+
+.xtra {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 160px;
+    flex-shrink: 0;
+    border-radius: 23.942px;
+    background: var(--white, #FFF);
+    box-shadow: 0px 2.463px 4.187px 0px rgba(0, 0, 0, 0.00), 0px 10.838px 8.67px 0px rgba(0, 0, 0, 0.01), 0px 26.602px 17.292px 0px rgba(0, 0, 0, 0.01), 0px 51.234px 33.893px 0px rgba(0, 0, 0, 0.01), 0px 86.212px 62.319px 0px rgba(0, 0, 0, 0.02), 0px 133.012px 106.41px 0px rgba(0, 0, 0, 0.02);
+    position: relative;
+    bottom: 210px;
+    left: 280px;
+}
+
+.xtra img {
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+}
+
+/* finish own part */
 
 /* footer section */
 .footer {

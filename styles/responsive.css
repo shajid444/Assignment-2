@@ -142,7 +142,14 @@
 
     /* finish newsletter-section */
 
+/* own part */
 
+    .wnn {
+         flex-direction: column;
+    }
+
+
+    /* own part */
     /* footer section */
 
     .footer {
